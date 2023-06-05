@@ -1,1 +1,1 @@
-puedes modificar siempre todo pero tienes q hacer add- coommit push si no no se guarda. 
+si haces un repositorio agregas todo tienes que cerrar el terminal si no no te deja push otra carpeta de otro repositiorio distinto
